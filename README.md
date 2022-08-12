@@ -1,4 +1,4 @@
-# Project 6 | Product Home Page
+# Project 7 | Product Home Page
 ---
 
 ## What I have learned 
@@ -13,7 +13,7 @@
 
 ---
 ## Live Link
-[Product Home Page](https://project-6-by-yash.netlify.app/)
+[Product Home Page](https://project-7-by-yash.netlify.app/)
 
 ---
 
